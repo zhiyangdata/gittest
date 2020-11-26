@@ -1,4 +1,4 @@
 # gittest
 to create a new repo
 fix in new branch
-fix in mian branch
+create a new branch is very easy 
